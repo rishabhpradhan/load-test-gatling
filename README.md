@@ -1,6 +1,6 @@
 # LOAD-TEST-GATLING
 
-Use this service to load test rest api.
+Service to load test rest api using Gatling
 
 ### Prerequisites 
 What you will need:
